@@ -1,0 +1,289 @@
+# depslib dependency file v1.0
+1735175803 source:c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\color.c
+	<stdio.h>
+
+1735177218 source:c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"color.h"
+	"search.h"
+	"validation.h"
+	"structs.h"
+	"smallchange.h"
+	"interface.h"
+	"openfile.h"
+
+1735175803 c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\color.h
+
+1735176148 c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\search.h
+
+1735175803 c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\validation.h
+
+1735175803 c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\structs.h
+
+1735177160 source:c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\openfile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"color.h"
+	"validation.h"
+	"structs.h"
+	"smallchange.h"
+	"interface.h"
+
+1735178566 source:c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\search.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"structs.h"
+	"color.h"
+
+1735175841 source:c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\validation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"structs.h"
+
+1735176482 source:c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\smallchange.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+
+1735176064 c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\smallchange.h
+
+1735177160 c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\interface.h
+
+1735177160 source:c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"structs.h"
+	"color.h"
+
+1735177160 c:\users\ahmed\onedrive\«·„” ‰œ« \code box\hotel\openfile.h
+
+1735175803 source:c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\color.c
+	<stdio.h>
+
+1735438492 source:c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"structs.h"
+	"color.h"
+
+1735175803 c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\structs.h
+
+1735175803 c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\color.h
+
+1735444001 source:c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"color.h"
+	"search.h"
+	"validation.h"
+	"structs.h"
+	"change.h"
+	"interface.h"
+	"openfile.h"
+
+1735176148 c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\search.h
+
+1735445548 c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\validation.h
+
+1735443686 c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\smallchange.h
+
+1735177160 c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\interface.h
+
+1735443686 c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\openfile.h
+
+1735444001 source:c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\openfile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"color.h"
+	"validation.h"
+	"structs.h"
+	"change.h"
+	"interface.h"
+
+1735447067 source:c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\search.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"structs.h"
+	"color.h"
+
+1735438494 source:c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\smallchange.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+
+1735445548 source:c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\validation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"structs.h"
+
+1735446523 source:c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\reservations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"color.h"
+	"search.h"
+	"validation.h"
+	"structs.h"
+	"change.h"
+	"interface.h"
+	"openfile.h"
+
+1735446332 source:c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\change.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"structs.h"
+
+1735443686 c:\users\dell\downloads\hotel-20241228t224927z-001\hotel\change.h
+
+1735446332 source:c:\users\pc\downloads\hotel\hotel\change.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"structs.h"
+
+1735175803 c:\users\pc\downloads\hotel\hotel\structs.h
+
+1735175803 source:c:\users\pc\downloads\hotel\hotel\color.c
+	<stdio.h>
+
+1735438492 source:c:\users\pc\downloads\hotel\hotel\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"structs.h"
+	"color.h"
+
+1735175803 c:\users\pc\downloads\hotel\hotel\color.h
+
+1735444001 source:c:\users\pc\downloads\hotel\hotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"color.h"
+	"search.h"
+	"validation.h"
+	"structs.h"
+	"change.h"
+	"interface.h"
+	"openfile.h"
+
+1735176148 c:\users\pc\downloads\hotel\hotel\search.h
+
+1735445548 c:\users\pc\downloads\hotel\hotel\validation.h
+
+1735443686 c:\users\pc\downloads\hotel\hotel\change.h
+
+1735177160 c:\users\pc\downloads\hotel\hotel\interface.h
+
+1735443686 c:\users\pc\downloads\hotel\hotel\openfile.h
+
+1735444001 source:c:\users\pc\downloads\hotel\hotel\openfile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"color.h"
+	"validation.h"
+	"structs.h"
+	"change.h"
+	"interface.h"
+
+1735488060 source:c:\users\pc\downloads\hotel\hotel\reservations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"color.h"
+	"search.h"
+	"validation.h"
+	"structs.h"
+	"change.h"
+	"interface.h"
+	"openfile.h"
+
+1735447067 source:c:\users\pc\downloads\hotel\hotel\search.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"structs.h"
+	"color.h"
+
+1735445548 source:c:\users\pc\downloads\hotel\hotel\validation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<unistd.h>
+	"structs.h"
+
